@@ -1,7 +1,6 @@
-requirements.txt
 streamlit
 pandas
 joblib
-kagglehub
 plotly
-sciklit-learn
+scikit-learn
+kagglehub
